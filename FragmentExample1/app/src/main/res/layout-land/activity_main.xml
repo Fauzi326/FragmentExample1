@@ -6,7 +6,6 @@
     android:orientation="horizontal"
     tools:context=".MainActivity">
     <fragment
-
         android:id="@+id/fragment_book_title"
         android:name="muhammadfauzi.polbeng.ac.id.fragmentexample1.BookTitle"
         android:layout_width="0px"
