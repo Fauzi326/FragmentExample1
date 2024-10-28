@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidKotlinApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EventHandlingExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IntentExample1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IntentExample2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IntentExample3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IntentExample4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kalkulator" vcs="Git" />
+  </component>
+</project>
